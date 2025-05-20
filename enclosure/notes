@@ -1,0 +1,18 @@
+## Design Overview
+The enclosure is composed of two main parts:
+
+Wand head: a circular ring with a diamond-shaped element in the center, representing the magical identity of the wand.
+
+Wand body: a rectangular housing with wave-patterned grooves for visual flair and grip comfort. The body includes a removable lid for inserting the circuit and battery components.
+
+## Materials and Fabrication
+Material: PLA
+
+Manufacturing method: 3D printing (FDM)
+
+Battery used: 3.7V 1100mAh rechargeable LiPo battery
+
+The internal post and cavity ensure secure mounting of the ESP32 board and sensors.
+
+## Assembly Notes
+The wand body was designed with ease of assembly in mind. The lid can slide in and out, and the wand head is glued or snapped on top. The electronic components are positioned near the bottom opening for easy access during testing.
